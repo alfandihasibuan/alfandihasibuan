@@ -1,6 +1,9 @@
 ## 👋 Hi there..
 ##### I'm Alfandi Hasibuan
-##### Role : Full-Stack Web Developer
+I'm a computer science and technology graduate with a specialization in information systems. My passion for technology led me to explore a wide range of experiences during my college years. Through these experiences, I honed my expertise in software development, focusing on programming languages. In addition to my academic background, I've also worked as a freelance website developer, where I've built a strong reputation by delivering quality solutions to various clients.
+
+##### Role
+- Full-Stack Web Developer
 
 ## 💬 Get in touch
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&&target=_blanklogoColor=white&link=https://www.linkedin.com/in/alfandihasibuan/)](https://www.linkedin.com/in/alfandihasibuan/)
