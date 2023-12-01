@@ -1,7 +1,7 @@
 ### 👋 Hi there..
 
 ### 💬 Get in touch
-[![Love with](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/alfandihasibuan/))
+[![Love with](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alfandihasibuan/)
 
 <!--
 **alfandihasibuan/alfandihasibuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
