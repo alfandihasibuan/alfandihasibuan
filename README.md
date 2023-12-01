@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 ### Stats
 ![alfandihasibuan's github stats](https://github-readme-stats.vercel.app/api?username=alfandihasibuan&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=moltack)
-[alfandihasibuan's repo](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=moltack)
+![alfandihasibuan's repo](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=moltack)
