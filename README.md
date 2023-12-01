@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## ⚡ Tools
-[![Love with](https://skillicons.dev/icons?i=js,laravel,css,flutter)](https://skillicons.dev)
+[![Love with](https://skillicons.dev/icons?i=vscode,laravel,js,flutter,jquery,py,postman,figma,css)]
 
 
 ## 🌱 Stats
