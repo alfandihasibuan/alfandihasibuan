@@ -1,5 +1,5 @@
-# 👋 Hi there..
-### I'm Alfandi Hasibuan
+## 👋 Hi there..
+I'm Alfandi Hasibuan
 
 # 💬 Get in touch
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&&target=_blanklogoColor=white&link=https://www.linkedin.com/in/alfandihasibuan/)](https://www.linkedin.com/in/alfandihasibuan/)
@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# ⚡ Tools
+## ⚡ Tools
 [![Love with](https://skillicons.dev/icons?i=js,laravel,css,flutter)](https://skillicons.dev)
 
 
-# 🌱 Stats
+## 🌱 Stats
 ![alfandihasibuan's github stats](https://github-readme-stats.vercel.app/api?username=alfandihasibuan&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=moltack)
 
 <!--
