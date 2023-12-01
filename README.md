@@ -1,7 +1,9 @@
 ### 👋 Hi there..
 
 ### 💬 Get in touch
-[![Love with](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alfandihasibuan/)
+[![Linkedin Badge](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alfandihasibuan/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&&target=_blanklogoColor=white&link=https://www.linkedin.com/in/alfandihasibuan/)](https://www.linkedin.com/in/alfandihasibuan/)
+
 
 <!--
 **alfandihasibuan/alfandihasibuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
