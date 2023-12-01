@@ -1,7 +1,7 @@
 ## 👋 Hi there..
 I'm Alfandi Hasibuan
 
-# 💬 Get in touch
+## 💬 Get in touch
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&&target=_blanklogoColor=white&link=https://www.linkedin.com/in/alfandihasibuan/)](https://www.linkedin.com/in/alfandihasibuan/)
 
 
