@@ -23,14 +23,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## ⚡ Tools
+## ⚡ Languages
 [![Love with](https://skillicons.dev/icons?i=laravel,py,js,flutter,kotlin)](https://github.com/alfandihasibuan)
 
-
+<!--
 ## 🌱 Stats
 ![alfandihasibuan's github stats](https://github-readme-stats.vercel.app/api?username=alfandihasibuan&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=holi)
 
-<!--
+
 ### You can support me here!
 Thanks for the coffee
 <a href="https://trakteer.id/alfandihasibuan" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png?date=18-11-2023" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
