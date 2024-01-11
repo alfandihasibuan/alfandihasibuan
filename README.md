@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## ⚡ Languages
-[![Love with](https://skillicons.dev/icons?i=laravel,py,js,flutter,kotlin)](https://github.com/alfandihasibuan)
+[![Love with](https://skillicons.dev/icons?i=laravel,js,kotlin,flutter,py)](https://github.com/alfandihasibuan)
 
 <!--
 ## 🌱 Stats
